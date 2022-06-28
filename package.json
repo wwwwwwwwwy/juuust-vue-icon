@@ -1,7 +1,7 @@
 {
   "name": "meri-icon",
   "version": "0.1.4",
-  "description": "Juuust Vue Icon, Automation workflow with Figma",
+  "description": "meri Vue Icon",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
