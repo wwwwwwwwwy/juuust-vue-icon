@@ -1,6 +1,6 @@
 {
   "name": "meri-icon",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "meri Vue Icon",
   "main": "bundle/index.common.js",
   "files": [
